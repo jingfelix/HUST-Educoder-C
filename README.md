@@ -1,2 +1,3 @@
-# HUST-Educoder-C-
-educoder C 语言实训
+# HUST-Educoder-C
+Educoder C 语言实训
+MIT License
